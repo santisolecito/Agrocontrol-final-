@@ -1,3 +1,4 @@
+video https://youtu.be/2fFO8Dae7AU
 # 🌿 AgroControl — Campos Fértiles S.A.
 
 Sistema de gestión agrícola de escritorio desarrollado en Python con arquitectura MVC.
